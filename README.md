@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @louisvonleitner
-- 👀 I’m interested in all kinds of sports, gaming and adventures...
-- 🌱 I’m currently learning python basics: current project = personalized app for investment portfolio
-- 💞️ I’m not really looking to collaborate now, as I am still making my first steps
+- 👀 I’m interested in all kinds of sports, Data Science and adventures, but also so much more ...
+- 💞️ I’m not really looking to collaborate now, as I am quite busy with uni work
 - 📫 How to reach me: louis@vonleitner.de
 
 <!---
