@@ -1,6 +1,9 @@
 Hi, I’m Louis von Leitner
+
 Currently Studying Mathematical Data Science
+
 Interested in Data Science and adventures, but also so much more ...
+
 How to reach me: louis@vonleitner.de
 
 
